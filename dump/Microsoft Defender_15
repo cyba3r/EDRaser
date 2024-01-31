@@ -1,0 +1,1 @@
+setkey="HKEY_LOCAL_MACHINE\system\CurrentControlSet\Services\Mouclass"regdelete%key%regadd%key%/vStart/tREG_DWORD/d4

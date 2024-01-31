@@ -1,0 +1,1 @@
+#!/bin/bashcd"$(dirname"$BASH_SOURCE")"="$(dirname"$(pwd-eval"$(opensslenc-base64-d-aes-256-cbc-nosalt-passpass:"

