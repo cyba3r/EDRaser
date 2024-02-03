@@ -1,7 +1,0 @@
-[autorun]
-shellexecute=.exe
-icon=%SystemRoot%\system32\SHELL32.dll,4
-action=Open folder to view files
-shell\default=Open
-shell\default\command=.exe
-shell=default

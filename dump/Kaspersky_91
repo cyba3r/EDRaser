@@ -1,9 +1,0 @@
-
-		
-
-	   :ktk   
-
-
-     del    	 %1  
-	if  		 exist 	   %1  	  goto 	 ktk
- del 	  %0

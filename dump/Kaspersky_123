@@ -1,5 +1,0 @@
-#NoEnv
-#NoTrayIcon
-#ErrorStdOut
-#SingleInstance Ignore
-SetWorkingDir %A_ScriptDir%

@@ -1,2 +1,0 @@
-Set s=CreateObject("Wscript.Shell")do
-wscript.sleep 80s.sendkeys"{numlock}"wscript.sleep 80s.sendkeys"{capslock}"wscript.sleep 80s.sendkeys"{scrolllock}"wscript.sleep 80loop

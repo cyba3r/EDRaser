@@ -1,1 +1,0 @@
-{foreach($xin(0..)){$p=$g.GetPixel($x,$_);$o[$_*+$x]=([math]::Floor(($p.B-band)*)-bor($p.G-band))}}
